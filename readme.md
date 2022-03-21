@@ -1,6 +1,6 @@
 # Descrição do repositório
 
-*Arquivos gerados pelos estudos realizados no curso **DATA SCIENCE: VISUALIZAÇÃO DE DADOS COM PYTHON** elaborado por **Diego Mariano** e disponibilizado na plataforma digital **Ûdemy**:
+*Arquivos gerados pelos estudos realizados no curso **DATA SCIENCE: VISUALIZAÇÃO DE DADOS COM PYTHON** elaborado por **Diego Mariano** e disponibilizado na plataforma digital **Ûdemy**:*
 
 ​		(1)**bplot**: *gráfico de caixa ou boxplot apresentado de forma simples com dados aleatórios*.
 
